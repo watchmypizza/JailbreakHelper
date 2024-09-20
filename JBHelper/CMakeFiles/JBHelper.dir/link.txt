@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/JBHelper.dir/JBHelper_autogen/mocs_compilation.cpp.o CMakeFiles/JBHelper.dir/main.cpp.o CMakeFiles/JBHelper.dir/mainwindow.cpp.o -o JBHelper  /usr/lib/libQt6Widgets.so.6.7.2 /usr/lib/libQt6Gui.so.6.7.2 /usr/lib/libQt6Core.so.6.7.2 /usr/lib/libGLX.so /usr/lib/libOpenGL.so
